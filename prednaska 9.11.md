@@ -12,3 +12,8 @@
 
 ### Minimálna cena:
 - aspoň taká, aby sa výrobcovi vrátili náklady
+
+## Výdavky štátu
+
+### transferové platby:
+- jednosmerné platby zo strany štátu k občanom
