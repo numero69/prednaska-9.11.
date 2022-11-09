@@ -1,6 +1,6 @@
-# Účastníci trhu
+# Účastníci trhu - štát
 
-### Maximálna cena:
+## Maximálna cena:
 - elektrická energia
 - voda
 - plyn
@@ -10,7 +10,7 @@
 - poštovné
 - nájomné za štátom podporované bývanie
 
-### Minimálna cena:
+## Minimálna cena:
 - aspoň taká, aby sa výrobcovi vrátili náklady
 
 ## Výdavky štátu
